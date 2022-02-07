@@ -4,8 +4,8 @@ email: ncrichardson15@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A BAG is a WIP blog about my opinions on video games.
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: rnuhtan # DO NOT include the @ character, or else the build will fail!
+github_username:  nuhtan # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 theme: minima
